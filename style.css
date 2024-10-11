@@ -1,0 +1,24 @@
+footer {
+    text-align: center;
+    font-size: 1.5rem;
+}
+menu{
+text-align: center;
+font-family: 'roboto';
+font-size: 1.3rem;
+
+}
+
+.center {
+text-align: center;
+
+}
+
+#s1 {
+background-color: rgb(231, 231, 231);
+
+}
+
+#s2 {
+    background-color: rgb(243, 238, 233);
+}
